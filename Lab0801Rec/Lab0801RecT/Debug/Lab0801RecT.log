@@ -1,0 +1,8 @@
+﻿  Lab0801RecT.cpp
+C:\Users\dell\source\repos\Lab0801Rec\Lab0801RecT\Lab0801RecT.cpp(2): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\dell\source\repos\Lab0801Rec\Lab0801RecT\Lab0801RecT.cpp(2): message : Add macro to precompiled header instead of defining here
+C:\Users\dell\source\repos\Lab0801Rec\Lab0801RecT\Lab0801RecT.cpp(5): message : use of precompiled header
+C:\Users\dell\source\repos\Lab0801Rec\Lab0801Rec\Lab0801Rec.cpp(28,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dell\source\repos\Lab0801Rec\Lab0801RecT\Lab0801RecT.cpp(21,1): error C2660: 'Count': function does not take 1 arguments
+C:\Users\dell\source\repos\Lab0801Rec\Lab0801Rec\Lab0801Rec.cpp(9,5): message : see declaration of 'Count'
+C:\Users\dell\source\repos\Lab0801Rec\Lab0801RecT\Lab0801RecT.cpp(21,1): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
